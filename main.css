@@ -1,0 +1,72 @@
+body {
+	font-family: Avenir Next;
+
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.name-title {
+	margin-top: 5vh;
+	text-align: center;
+	font-size: 60px;
+	/*text-decoration-color: black;*/
+	color: black;
+	/*text-shadow: 1px 2px 5px grey;*/
+}
+
+a.nametitle {
+	text-decoration: none !important;
+	text-decoration-color: black;
+	color: black;
+}
+
+.page-subtitle {
+	margin-top: 3vh;
+	text-align: center;
+	font-size: 30px;
+	/*text-shadow: 1px 2px 5px grey;*/
+}
+
+.title-hr {
+	border-top: 1px solid #8c8b8b;
+	width: 40vw;
+}
+
+.contact {
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 3vh;
+	text-align: center;
+}
+
+.link-hover {
+	text-decoration: underline;
+}
+
+.contact-icon {
+	margin-left: 1%;
+	margin-right: 1%;
+}
+
+.contact-icon i {
+	color: black;
+	text-decoration: none;
+	/*text-shadow: 1px 2px 5px grey;*/
+}
+
+.size-72 {
+	font-size: 72px;
+}
+
+.about-container {
+	width: 35%;
+	margin: 0 auto;
+	font-size: 20px;
+	font-weight: 515;	
+}
